@@ -1,66 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9572f6a-aff9-465a-b002-6002daec9735" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/angular-masonry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/angular-route.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/angular-ui-notification.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/callback.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/angular-ui-notification.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/bassdock.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/landing-page.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/ui-bootstrap-csp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/vhs.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/imagesloaded.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/banner-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bgHeader.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bgHeader2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bgHeader3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/bgHeader4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/clarity_header_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/clearityNoText.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/intro-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/ipad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/phones.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/repost_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/slider.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/slider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/sliderNew.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/index-async.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/indexRebuild.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/infinit-scroll.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/interpolate-filter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/modernizr-2.8.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/searchWindow.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/services/SCV2Service.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/ui-bootstrap-tpls.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/version-directive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/version.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view1/view1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view1/view1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view1/view1_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view2/view2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view2/view2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view2/view2_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/e2e-tests/protractor.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/e2e-tests/scenarios.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-    </list>
+    <list default="true" id="e9572f6a-aff9-465a-b002-6002daec9735" name="Default" comment="" />
     <ignored path="Clarity.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -279,12 +220,12 @@
       <workItem from="1478792551260" duration="559000" />
       <workItem from="1479135658469" duration="217000" />
       <workItem from="1482773910922" duration="229000" />
-      <workItem from="1526428415179" duration="107000" />
+      <workItem from="1526428415179" duration="216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40731000" />
+    <option name="totallyTimeSpent" value="40840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="23" width="1864" height="1057" extended-state="0" />
