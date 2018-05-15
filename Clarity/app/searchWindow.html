@@ -1,0 +1,41 @@
+<div class="modal-header" style="background-color: #000; border-top: solid 2px #ff851b; border-right: solid 2px #ff851b; border-left: solid 2px #ff851b;"   >
+    <h1 style="color: #fbfffd" class="modal-title"><span style="display: inline-block;" ><img   src="img/clarity_header_logo.png" >  </span></h1>
+</div>
+<div class="modal-body">
+    <h1>Super Search</h1>
+    <p></p>
+    <h3>Search by Artist or Title</h3>
+    <input ng-model="currentSearchString" style="width: 280px;" /><p><i>leave blank to search by tag only...</i></p>
+
+    <h3>Add Tags</h3>
+    <span style="display: inline">
+        <input ng-model="addTagString"  />
+        <button class="btn btn-warning" style="font-size: 10px;" ng-click="addTag()" >Add Tag</button>
+    </span>
+    <div ng-repeat="tag in newTagList" style="display: inline-block;">
+        <span ng-click="removeTag(tag)" style="font-size: 10px;" class="label label-success label-as-badge" >{{tag}}</span>
+    </div>
+    <p></p>
+
+    <div style="width: 500px; position: absolute; top: 15px; right: 15px;">
+        <p>
+            Soundcloud has a powerful platform that works well, namely tagging songs by genre, the Soundcloud api allows you to combine filters, and this becomes a powerful tool for discovery.
+            In this search tool you can search by titles and artist, tags and time. Experiment with it, and I know you will find some new music from artists that you currently do not follow. For example; search a tag like 'psyche rock', for today and you will probably get a few songs, trying a single tag search for 'garage' will probably bring results every day in electronic, indie, alt- etc. since 'garage' these days does not mean anything more than an attitude! I will be adding a 'saved searched' function next week that will be stored in a cookie, you can then come back and easily try your ‘psyche rock’ search
+
+        </p>
+
+    </div>
+</div>
+<div class="modal-footer">
+    <div class="btn-group left-0">
+        <label class="btn btn-warning"  ng-model="created_at" uib-btn-radio="'last_hour'" uncheckable>Last Hour</label>
+        <label class="btn btn-warning"  ng-model="created_at" uib-btn-radio="'last_day'" uncheckable>Today</label>
+        <label class="btn btn-warning"  ng-model="created_at" uib-btn-radio="'last_week'" uib-uncheckable="uncheckable">This Week</label>
+        <label class="btn btn-warning"  ng-model="created_at" uib-btn-radio="'last_two_weeks'" uib-uncheckable="uncheckable">Two Weeks</label>
+        <label class="btn btn-warning"  ng-model="created_at" uib-btn-radio="'last_year'" uib-uncheckable="uncheckable">This Year</label>
+        <label class="btn btn-warning"  ng-model="created_at" uib-btn-radio="'all_time'" uib-uncheckable="uncheckable">Forever</label>
+    </div>
+    <button class="btn btn-success" type="button" ng-click="ok()">Search</button>
+    <button class="btn btn-warning" type="button" ng-click="cancel()">Cancel</button>
+</div>
+
