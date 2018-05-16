@@ -23,10 +23,11 @@ if given more time, I was told 12 hours, I would have avoided axios and create R
 
 ## TO RUN
 Checkout the project and run 
-'npm install'
+ 
+`npm install`
 
 after dependecies are installed run 
-'npm start'
+`npm start`
 
 that will spin up a local instace you can access at http://localhost:3000/
 it will pop up a browser but it takes a good few seconds to get the page going.
