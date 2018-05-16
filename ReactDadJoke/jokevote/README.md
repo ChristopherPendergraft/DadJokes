@@ -18,3 +18,6 @@ A user can continues to vote unless the DB is Exuasted,  but if they open the vo
 
 ## RED= NOT FUNNY, GREEN=FUNNY
 
+## TTD - or things I would enhance 
+if given more time, I was told 12 hours, I would have avoided axios and create React Router V4 endpoints to handle the CORS issues that we may face if deploying to public. I imagine that this API is wildcard to allow anyrequest but its still cross domain issue prone. This was just down and dirty simple dimple. Also better CSS, I guess. Maybe a voting percentage of terrible jokes display in the history tray. The spec was limited and I stuck to it. Also the browser history works, but since this is all in the browsers memory this solution would not support direct URLS, unless we took the inbound path, stripped the iD, made a CALL to the API and started the list over. Unless we work with cookies, localStore would be lost on refresh. I imagine a long voting app would store and post to the serivce layer once a section was complete. Again did not want to go off the reservation, just stick to the request. 
+
