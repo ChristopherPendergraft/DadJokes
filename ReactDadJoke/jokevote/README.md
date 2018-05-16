@@ -27,6 +27,7 @@ Checkout the project and run
 `npm install`
 
 after dependecies are installed run 
+
 `npm start`
 
 that will spin up a local instace you can access at http://localhost:3000/
