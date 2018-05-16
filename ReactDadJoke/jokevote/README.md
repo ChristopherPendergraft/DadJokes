@@ -31,6 +31,6 @@ after dependecies are installed run
 `npm start`
 
 that will spin up a local instace you can access at http://localhost:3000/
-it will pop up a browser but it takes a good few seconds to get the page going.
+it will pop up a browser but it takes a good few seconds to get the page going. This is also a dev server with a watcher that will contiunue to recompile the app as changes are made. 
 
 
